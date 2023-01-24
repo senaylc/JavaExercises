@@ -1,0 +1,18 @@
+pizza already exists in the set.
+soup already exists in the set.
+oven does not exist in the set.
+reputation does not exist in the set.
+String set contains football => false
+String set contains appointment => false
+String set contains steak => true
+appearance
+association
+ear
+effort
+history
+map
+pizza
+setting
+soup
+steak
+week

@@ -1,0 +1,44 @@
+Name: Metin Doruk / Address: Anadolu Bul. 55/3 / Phone: 5320258407 / Social Security Number: 32025840361
+2120.00
+Name: Fatma Erdinc / Address: 123 Cd. 55 Sk. / Phone: 5552893791 / Social Security Number: 32812799371
+7660.50
+Name: Tahir Yumlu / Address: Mihmandar Sk. 12/2 / Phone: 5539103474
+0.00
+Name: Derya Boran / Address: Mihmandar Sk. 12/2 / Phone: 5534083374 / Social Security Number: 32913408331 / Current hours: 30
+1860.00
+Name: Metin Keskin / Address: 123 Cd. 55 Sk. / Phone: 5552943841 / Social Security Number: 32915324381
+3875.00
+Name: Erol Turkyilmaz / Address: 884 Cd. 19/4 / Phone: 5365983528 / Social Security Number: 32918598351
+8650.50
+Name: Deniz Ozbey / Address: 884 Cd. 19/4 / Phone: 5365403720
+0.00
+Name: Fatma Altin / Address: Inci Mah. 55/9 / Phone: 5515773616 / Social Security Number: 32911577361 / Current hours: 30
+900.00
+Name: Ferhat Boran / Address: Anadolu Bul. 55/3 / Phone: 5320245767 / Social Security Number: 32024576341
+2674.00
+Name: Abdulkadir Babaoglu / Address: Mihmandar Sk. 12/2 / Phone: 5537313274 / Social Security Number: 32022731321
+2120.00
+Name: Sahin Erdogan / Address: 884 Cd. 19/4 / Phone: 5361163526 / Social Security Number: 32917116351
+3430.00
+Name: Tahir Altug / Address: 123 Cd. 55 Sk. / Phone: 5552803901 / Social Security Number: 32814920391 / Current hours: 30
+2760.00
+Name: Erol Kilicli / Address: Anadolu Bul. 55/3 / Phone: 5320293897 / Social Security Number: 32029389361
+2785.00
+Name: Mustafa Dicle / Address: 884 Cd. 19/4 / Phone: 5360053325 / Social Security Number: 32812005331
+4140.00
+Name: Ayse Parlak / Address: Inci Mah. 55/9 / Phone: 5513893717
+0.00
+Name: Zekai Aytac / Address: Anadolu Bul. 55/3 / Phone: 5328180547 / Social Security Number: 32818054371
+4347.00
+Name: Mehtap Aldemir / Address: Mihmandar Sk. 12/2 / Phone: 5535943374 / Social Security Number: 32912594331
+3450.00
+Name: Mehtap Kilicli / Address: 123 Cd. 55 Sk. / Phone: 5552073871
+0.00
+Name: Muhammet Parlak / Address: 884 Cd. 19/4 / Phone: 5364093929 / Social Security Number: 32028409391
+2120.00
+Name: Azad Abasiyanik / Address: Anadolu Bul. 55/3 / Phone: 5329185897 / Social Security Number: 32918589391 / Current hours: 30
+1650.00
+Name: Ozan Dede / Address: 123 Cd. 55 Sk. / Phone: 5552863761 / Social Security Number: 32815316371
+8101.50
+Name: Metin Aytac / Address: Inci Mah. 55/9 / Phone: 5510123515 / Social Security Number: 32913012351
+3130.00

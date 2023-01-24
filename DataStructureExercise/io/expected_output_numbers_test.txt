@@ -1,0 +1,28 @@
+135 already exists in the set.
+166 already exists in the set.
+-3 already exists in the set.
+30 does not exist in the set.
+66 does not exist in the set.
+Integer set contains 76 => true
+Integer set contains 66 => false
+-80
+-57
+-50
+-18
+-4
+-3
+11
+12
+14
+15
+17
+19
+51
+76
+94
+100
+102
+105
+135
+166
+193

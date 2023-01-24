@@ -1,0 +1,7 @@
+The tag <u> not closed.
+Expected closing tag </b> but got </u> instead.
+The tag <p> not closed.
+Unexpected closing tag </b>.
+Tags are correct.
+Tags are correct.
+Tags are correct.

@@ -1,0 +1,12 @@
+Metin - 8 already exists in the set.
+Mustafa - 10 already exists in the set.
+Mehtap - 41 does not exist in the set.
+Person set contains Yagmur - 47 => true
+Person set contains Mehtap - 41 => false
+Person set contains Suna - 26 => false
+Yagmur - 47
+Sahin - 30
+Mustafa - 10
+Yasemin - 9
+Metin - 8
+Aylin - 4
